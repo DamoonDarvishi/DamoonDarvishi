@@ -1,7 +1,7 @@
 ### Hi, I'm Damoon Darvishi 👋
 
 <p align="center">
-<bold>Hello and welcome to my GitHub! My name is Damoon, and I am a frontend developer passionate about building innovative solutions to complex problems. I'm living now in Munich, Germany. A motto I try to follow is “The more that you read, the more things you will know. The more that you learn, the more places you'll go.”</bold>
+<bold>Hello and welcome to my GitHub! My name is Damoon, and I am a frontend developer passionate about building innovative solutions to complex problems. I'm living now in Munich, Germany. A motto I try to follow is “The more that you read, the more things you will know. The more that you learn, the more places you'll go.”</bold>--Dr. Seuss
 </p>
 
 <p align="center">
