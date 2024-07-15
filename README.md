@@ -30,13 +30,25 @@
 - 📟 How to reach me: [Linkedin](https://www.linkedin.com/in/damoon-darvishi-react-developer/) 
 
 <details>
-<summary>Projects</summary>
+<summary>Landing Page Projects</summary>
 
 | # | Landing Pages |
 |-----:|-----------|
-|     1| <a href="https://www.selectedgeeks.com/" > Selected Geeks </a> |
-|     2| <a href="https://www.selectedresorts.com/" > Selected Resorts </a>|
-|     3| <a href="https://www.selectedtime.com/" > Selected Time </a>|
-|     4| <a href="https://www.ukstudy.com/" > UK Study </a>|
-|     5| <a href="https://www.abacusepos.com/" > Abacus Epos</a>|
+|     1| <a href="https://selectedgeeks.com/" target="_blank"> Selected Geeks </a> |
+|     2| <a href="https://selectedresorts.com/" > Selected Resorts </a>|
+|     3| <a href="https://selectedtime.com/" > Selected Time </a>|
+|     4| <a href="https://ukstudy.com/" > UK Study </a>|
+|     5| <a href="https://abacusepos.com/" > Abacus Epos</a>|
+</details>
+
+<details>
+<summary>Fun Projects</summary>
+
+| # | Fun App |
+|-----:|-----------|
+|     1| <a href="(https://weather-app-damoon.vercel.app/)" target="_blank"> Weather App </a> |
+|     2| <a href="https://global-guides.vercel.app/" > Global Guids </a>|
+|     3| <a href="(https://popcorn-chi.vercel.app/)" > Pop Corn (Movies) </a>|
+|     4| <a href="https://js-quiz-app-pi.vercel.app/" > Js/React Q/A </a>|
+|     5| <a href="https://classbon.vercel.app/" > Classbon</a>|
 </details>
