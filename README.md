@@ -28,3 +28,15 @@
 - 💻 I’m currently working on my skills as a React Developer to provide better enviornments and experiences for everyone and anyone. 
 - 📚 I’m currently learning to get better at Next.js and TypeScript.
 - 📟 How to reach me: [Linkedin](https://www.linkedin.com/in/damoon-darvishi-react-developer/) 
+
+<details>
+<summary>Projects</summary>
+
+| # | Landing Pages |
+|-----:|-----------|
+|     1| <a href="https://www.selectedgeeks.com/" > Selected Geeks </a> |
+|     2| <a href="https://www.selectedresorts.com/" > Selected Resorts </a>|
+|     3| <a href="https://www.selectedtime.com/" > Selected Time </a>|
+|     4| <a href="https://www.ukstudy.com/" > UK Study </a>|
+|     5| <a href="https://www.abacusepos.com/" > Abacus Epos</a>|
+</details>
