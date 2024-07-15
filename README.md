@@ -27,8 +27,11 @@
 
 - 💻 I’m currently working on my skills as a React Developer to provide better enviornments and experiences for everyone and anyone. 
 - 📚 I’m currently learning to get better at Next.js and TypeScript.
-- 📟 How to reach me: [Linkedin](https://www.linkedin.com/in/damoon-darvishi-react-developer/) 
+- 📟 How to reach me: [Linkedin](https://www.linkedin.com/in/damoon-darvishi-react-developer/)
 
+<table>
+  <tr>
+    <td valign="top">
 <details>
 <summary>Landing Page Projects</summary>
 
@@ -41,6 +44,8 @@
 |     5| <a href="https://abacusepos.com/" > Abacus Epos</a>|
 </details>
 
+</td>
+    <td valign="top">
 <details>
 <summary>Fun Projects</summary>
 
@@ -52,3 +57,7 @@
 |     4| <a href="https://js-quiz-app-pi.vercel.app/" > Js/React Q/A </a>|
 |     5| <a href="https://classbon.vercel.app/" > Classbon</a>|
 </details>
+</td>
+  </tr>
+</table>
+
