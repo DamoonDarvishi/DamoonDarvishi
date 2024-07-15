@@ -32,8 +32,6 @@
 <table>
   <tr>
     <td valign="top">
-<details>
-<summary>Landing Page Projects</summary>
 
 | # | Landing Pages |
 |-----:|-----------|
@@ -42,12 +40,9 @@
 |     3| <a href="https://selectedtime.com/" > Selected Time </a>|
 |     4| <a href="https://ukstudy.com/" > UK Study </a>|
 |     5| <a href="https://abacusepos.com/" > Abacus Epos</a>|
-</details>
 
 </td>
     <td valign="top">
-<details>
-<summary>Fun Projects</summary>
 
 | # | Fun App |
 |-----:|-----------|
@@ -56,7 +51,7 @@
 |     3| <a href="https://popcorn-chi.vercel.app/" > Pop Corn (Movies) </a>|
 |     4| <a href="https://js-quiz-app-pi.vercel.app/" > Js/React Q/A </a>|
 |     5| <a href="https://classbon.vercel.app/" > Classbon</a>|
-</details>
+
 </td>
   </tr>
 </table>
