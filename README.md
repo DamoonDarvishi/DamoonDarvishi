@@ -27,5 +27,5 @@
 
 - 💻 I’m currently working on my skills as a React Developer to provide better enviornments and experiences for everyone and anyone. 
 - 📚 I’m currently learning to get better at Next.js and TypeScript.
-- 📟 How to reach me: [Linkedin](https://www.linkedin.com/in/damoon-darvishi-react-developer/)
+- 📟 How to reach me: [Linkedin](https://www.linkedin.com/in/damoon-darvishi-react-developer/).
 
