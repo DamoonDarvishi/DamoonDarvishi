@@ -1,7 +1,8 @@
 ### Hi, I'm Damoon Darvishi 👋
 
-<p align="center">
-<bold>And welcome to my GitHub! I am a frontend developer passionate about building innovative solutions to complex problems. I'm living now in Munich.
+<p>
+And welcome to my GitHub! <br />
+I am a Frontend Developer, and I've been working in tech since 2019. <br/>
 </p>
 
 <p align="center">
@@ -26,6 +27,6 @@
 </p>
 
 - 💻 I’m currently working on my skills as a React Developer to provide better enviornments and experiences for everyone and anyone. 
-- 📚 I’m currently learning to get better at Next.js and TypeScript.
-- 📟 How to reach me: [Linkedin](https://www.linkedin.com/in/damoon-darvishi-react-developer/).
+- 📚 I’m currently learning to get better at Docker, CI/CD and Testing.
+- 📟 How to reach me: [Linkedin](https://www.linkedin.com/in/damoondarvishi/).
 
