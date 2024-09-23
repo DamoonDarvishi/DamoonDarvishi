@@ -26,7 +26,7 @@ I am a Frontend Developer, and I've been working in tech since 2019. <br/>
 <!-- <img alt="github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/> -->
 </p>
 
-- 💻 I’m currently working on my skills as a React Developer to provide better enviornments and experiences for everyone and anyone. 
+- 💻 I’m currently working on my skills as a Frontend Developer to provide better enviornments and experiences for everyone. 
 - 📚 I’m currently learning to get better at Docker, CI/CD and Testing.
 - 📟 How to reach me: [Linkedin](https://www.linkedin.com/in/damoondarvishi/).
 
